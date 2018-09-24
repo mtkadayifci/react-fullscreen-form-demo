@@ -1,0 +1,31 @@
+{
+  "name": "full-screen-form-react",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mustafa Turgay Kadayıfçı",
+    "email": "mtkadayifci@gmail.com",
+    "url": "https://github.com/mtkadayifci"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.0",
+    "npm": "^6.4.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint-eslint": "eslint ."
+  }
+}

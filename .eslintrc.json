@@ -1,0 +1,27 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "react/jsx-filename-extension": "off",
+        "no-use-before-define": "off",
+        "indent": "off",
+        "linebreak-style": "off",
+        "no-plusplus": "off",
+        "max-len": "off",
+        "react/jsx-indent": [
+            "off"
+        ],
+        "jsx-a11y/label-has-for": [
+            "off"
+        ]
+    },
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true,
+        "jest": true
+    },
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ]
+}
