@@ -1,6 +1,4 @@
 import React from 'react';
-import './App.css';
-import 'normalize.css';
 import FForm from './containers/FForm/FForm';
 import Frame from './components/Frames/Frame/Frame';
 

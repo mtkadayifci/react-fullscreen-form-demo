@@ -1,5 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './FForm.css';
+import 'normalize.css';
 import Layout from '../../components/Layout/Layout';
 import Frames from '../../components/Frames/Frames';
 import Controls from '../../components/Controls/Controls';
