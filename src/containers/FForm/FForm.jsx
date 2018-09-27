@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './FForm.css';
+import './FForm_purged.css';
 import 'normalize.css';
 import Layout from '../../components/Layout/Layout';
 import Frames from '../../components/Frames/Frames';

@@ -1,4 +1,3 @@
-@import url(//fonts.googleapis.com/css?family=Raleway:400,700);
 @font-face {
 	font-weight: normal;
 	font-style: normal;
@@ -172,10 +171,6 @@ button.fs-continue,
 	padding: 0;
 	top: 0;
 	list-style: none;
-}
-
-.fs-form-overview ol {
-	max-width: ;
 }
 
 .fs-fields > li {
