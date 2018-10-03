@@ -143,7 +143,7 @@ class FForm extends React.Component {
         const {
             children, title, submitText, onSubmit,
         } = this.props;
-        const frameElements = children.filter(c => c.type.name === 'Frame' && c.props.show);
+        const frameElements = children.filter(c => c.props.show);
         const overview = current === frameElements.length;
         if (overview) window.document.querySelector('body').classList.add('overview');
         return (
