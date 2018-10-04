@@ -1,6 +1,7 @@
 import React from 'react';
-import FForm from './containers/FForm/FForm';
-import Frame from './components/Frames/Frame/Frame';
+import { FForm, Frame } from 'react-fullscreen-form';
+// import FForm from './containers/FForm/FForm';
+// import Frame from './components/Frames/Frame/Frame';
 
 const App = () => (
   <FForm title="Fullscreen Form React Demo">
